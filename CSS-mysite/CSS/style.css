@@ -1,0 +1,142 @@
+.top{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 20px;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather",serif;
+
+}
+
+h1{
+  margin:50px auto 0 auto;
+  font-family: "Sacramento",cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+h2{
+  font-family: "Montserrat",sans-serif;
+  font-size:2.5rem;
+  color:#66BFBF;
+  padding-bottom: 2px;
+}
+h3{
+  font-family: "Montserrat",sans-serif;
+  color:#11999E;
+}
+.middle{
+margin:100px 0;
+}
+.con{
+  width:40%;
+  margin:40px auto 60px;
+
+}
+.bottom{
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+  bottom: 300px;
+
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+
+.pr{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+a{
+  color:#1E90FF;
+  margin: 10px 20px;
+  font-family: "Montserrat",sans-serif;
+  margin-top: 80px;
+  text-decoration: none;
+}
+
+a:hover{
+  color:#EAF6F6;
+}
+
+.foot{
+  color: #EAF6F6;
+  font-size: 0.756rem;
+  padding: 20px 0;
+}
+.skill-row{
+  width:40%;
+  margin:100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+.app{
+  width:30%;
+  float:left;
+  margin-right: 30px;
+}
+.chilly{
+  width:30%;
+  float:right;
+  margin-left: 30px;
+}
+hr{
+  border-top:6px dotted;
+  width:4%;
+  color: grey;
+  margin: 100px auto 100px auto;
+}
+
+
+.intro{
+  width:30%;
+  margin: auto;
+}
+
+.contact-me{
+  margin-bottom: 70px;
+}
+
+ .btn {
+    display: inline-block;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 20px;
+    border-radius: 8px;
+    border: solid 1px #3866a3;
+    background: linear-gradient(180deg, #63B8EE 5%, #468ccf 100%);
+    text-shadow: 1px 1px 0 #528ecc;
+    box-shadow: inset 1px 1px 0 0 #bbdaf7;
+}
+ .btn:hover {
+    background: linear-gradient(180deg, #468ccf 5%, #63B8EE 100%);
+}
+ .btn:active {
+    position: relative;
+    top: 1px;
+}
+ .btn-text {
+    padding: 7px 18px;
+    float: left;
+}
+ .btn-icon {
+    border-right: 1px solid rgba(255, 255, 255, 0.16);
+    box-shadow: rgba(0, 0, 0, 0.14) -1px 0 0 inset;
+    border-radius: 8px 0 0 8px;
+    padding: 7px 10px;
+    float: left;
+}
